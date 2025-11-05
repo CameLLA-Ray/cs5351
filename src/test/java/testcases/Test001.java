@@ -5,7 +5,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import Samples.*;
 
-
 public class Test001 {
 	 @Test
 	 public void testA() {
